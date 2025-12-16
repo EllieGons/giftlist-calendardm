@@ -3,7 +3,7 @@ body {
   background: transparent;
   }
 
-    :root {
+  :root {
     --weekday-color: #F8F1EB;
 
     --innerBorder-color: #F8F1EB;
@@ -21,7 +21,7 @@ body {
 
     --headerFont: "Pinyon Script", cursive;
     --textFont: "Viaoda Libre", serif;
-  }}
+  }
   
 
   /*containers*/
